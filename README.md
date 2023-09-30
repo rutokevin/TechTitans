@@ -1,1 +1,1 @@
-# TechTitans
+# TechTitans team
