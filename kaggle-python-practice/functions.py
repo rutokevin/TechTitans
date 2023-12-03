@@ -2,7 +2,7 @@
 # help() in built function returns a function header and its argument, and what the function does briefly
 
 # e.g 1
-help(round)
+# help(round)
 
 #returns ->
 # Help on built-in function round in module builtins:
@@ -13,10 +13,10 @@ help(round)
 #     The return value is an integer if ndigits is omitted or None.  Otherwise
 #     the return value has the same type as the number.  ndigits may be negative.
 
-help(round(-2.01)) # first calc the round arguments the help function explains what the function does
+# help(round(-2.01)) # first calc the round arguments the help function explains what the function does
 
 #e.g 2
-help(print)
+# help(print)
 
 #returns ->
 # Help on built-in function print in module builtins:
@@ -50,7 +50,7 @@ print(# python allows trailing commas in argument list
     least_difference(5,6,7)
 )#-> 9 0 1
 
-help(least_difference) # tells us what our function does
+# help(least_difference) # tells us what our function does
 # Help on function least_difference in module __main__:
 
 # least_difference(a, b, c)
@@ -74,7 +74,7 @@ def least_diff(a,b,c):
     return min(diff1,diff2,diff3)
 
 # When we call help() on a func it shows docstring 
-help(least_diff)
+# help(least_diff)
 # Help on function least_diff in module __main__:
 
 # least_diff(a, b, c)
