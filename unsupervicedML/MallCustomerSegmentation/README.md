@@ -1,3 +1,9 @@
+---
+noteId: "ef248420b39911eea25c3de92be2f66a"
+tags: []
+
+---
+
 #  Mall Customer Segmentation Using Unsupervised Learning Clustering
 
  1. ## Data Collection and Preprocessing:
